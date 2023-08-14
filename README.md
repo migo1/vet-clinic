@@ -48,8 +48,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[animals database]**
 - **[store animals records]**
 - **[query animals records]**
@@ -61,7 +59,6 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Robert Migot**
 
@@ -75,7 +72,6 @@
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[update_animals_table]**
 - [ ] **[query_multiple_tables]**
