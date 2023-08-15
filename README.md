@@ -13,13 +13,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -73,7 +66,6 @@
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[update_animals_table]**
 - [ ] **[query_multiple_tables]**
 - [ ] **[add_joins]**
 
