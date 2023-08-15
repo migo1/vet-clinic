@@ -73,7 +73,6 @@
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[update_animals_table]**
 - [ ] **[query_multiple_tables]**
 - [ ] **[add_joins]**
 
