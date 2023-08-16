@@ -66,7 +66,6 @@
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[query_multiple_tables]**
 - [ ] **[add_joins]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
