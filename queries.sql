@@ -97,7 +97,7 @@ FROM visits vt JOIN animals a ON vt.animal_id = a.id
 JOIN vets v ON vt.vet_id = v.id ORDER BY vt.date_of_visit DESC
 LIMIT 1;
 
-vet_clinic=# SELECT COUNT(*) FROM visits v JOIN animals a ON v.animal_id = a.id 
+SELECT COUNT(*) FROM visits v JOIN animals a ON v.animal_id = a.id 
 JOIN vets vt ON v.vet_id = vt.id LEFT JOIN specializations sp ON vt.id = sp.vet_id 
 AND a.species_id = sp.species_id WHERE sp.vet_id IS NULL;
 
