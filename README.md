@@ -58,6 +58,10 @@
 - GitHub: [@migo1](https://github.com/migo1)
 - LinkedIn: [robertmigot](https://www.linkedin.com/in/robertmigot/)
 
+👤 **Manzi Tresor**
+
+- GitHub: [@manzitresor](https://github.com/manzitresor)
+- LinkedIn: [manzi-tresor-783b4022a](https://www.linkedin.com/in/manzi-tresor-783b4022a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,7 +70,7 @@
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[add_joins]**
+- [ ] **[add_database_diagram]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

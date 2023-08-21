@@ -51,3 +51,9 @@ CREATE TABLE specializations (
     date_of_visit date,
     PRIMARY KEY (vet_id, animal_id, date_of_visit)
 );
+
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+CREATE INDEX visits_animal_id_idx ON visits (animal_id);
+CREATE INDEX visits_vet_id_idx ON visits (vet_id);
+CREATE INDEX owners_email_idx ON owners(email);
