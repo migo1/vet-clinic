@@ -51,3 +51,5 @@ CREATE TABLE specializations (
     date_of_visit date,
     PRIMARY KEY (vet_id, animal_id, date_of_visit)
 );
+
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
