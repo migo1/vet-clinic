@@ -1,1 +1,2 @@
 CREATE TABLE patients(id INT PRIMARY KEY NOT NULL,name VARCHAR(50) NOT NULL,date_of_birth DATE NOT NULL);
+CREATE TABLE medical_histories(id INT PRIMARY KEY NOT NULL,admitted_at TIMESTAMP NOT NULL,patient_id INT NOT NULL,status VARCHAR(50),FOREIGN KEY (patient_id) REFERENCES patients(id));
