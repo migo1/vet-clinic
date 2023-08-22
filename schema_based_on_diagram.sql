@@ -17,3 +17,8 @@ CREATE TABLE invoice_items (id INT PRIMARY KEY NOT NULL,
                         FOREIGN KEY (invoice_id) REFERENCES invoices(id),
                         FOREIGN KEY (treatment_id) REFERENCES treatments(id)
 );
+
+CREATE INDEX medical_histories_patient_id_idx ON medical_histories (patient_id);
+CREATE INDEX invoices_medical_history_id_idx ON invoices (medical_history_id);
+CREATE INDEX invoice_items_invoice_id_idx ON invoice_items (invoice_id);
+
